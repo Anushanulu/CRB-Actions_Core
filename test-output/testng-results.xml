@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92088" started-at="2022-01-11T07:13:29Z" finished-at="2022-01-11T07:15:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92088" started-at="2022-01-11T07:13:29Z" finished-at="2022-01-11T07:15:01Z">
+      <class name="CRBActions_US_C_Auth_main.CreateRequest_Auth">
+        <test-method status="PASS" signature="setup()[pri:0, instance:CRBActions_US_C_Auth_main.CreateRequest_Auth@754ba872]" name="setup" is-config="true" duration-ms="9865" started-at="2022-01-11T12:43:29Z" finished-at="2022-01-11T12:43:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="RIPC_Login()[pri:0, instance:CRBActions_US_C_Auth_main.CreateRequest_Auth@754ba872]" name="RIPC_Login" duration-ms="18989" started-at="2022-01-11T12:43:38Z" finished-at="2022-01-11T12:43:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RIPC_Login -->
+        <test-method status="PASS" signature="Create_Req()[pri:1, instance:CRBActions_US_C_Auth_main.CreateRequest_Auth@754ba872]" name="Create_Req" duration-ms="928" started-at="2022-01-11T12:43:57Z" finished-at="2022-01-11T12:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_Req -->
+        <test-method status="PASS" signature="skill_Req()[pri:2, instance:CRBActions_US_C_Auth_main.CreateRequest_Auth@754ba872]" name="skill_Req" duration-ms="1534" started-at="2022-01-11T12:43:58Z" finished-at="2022-01-11T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skill_Req -->
+        <test-method status="PASS" signature="select_Req()[pri:3, instance:CRBActions_US_C_Auth_main.CreateRequest_Auth@754ba872]" name="select_Req" duration-ms="6574" started-at="2022-01-11T12:44:00Z" finished-at="2022-01-11T12:44:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_Req -->
+        <test-method status="PASS" signature="select_jrss()[pri:4, instance:CRBActions_US_C_Auth_main.CreateRequest_Auth@754ba872]" name="select_jrss" duration-ms="4845" started-at="2022-01-11T12:44:06Z" finished-at="2022-01-11T12:44:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_jrss -->
+        <test-method status="PASS" signature="req_detail()[pri:5, instance:CRBActions_US_C_Auth_main.CreateRequest_Auth@754ba872]" name="req_detail" duration-ms="11718" started-at="2022-01-11T12:44:11Z" finished-at="2022-01-11T12:44:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- req_detail -->
+        <test-method status="PASS" signature="skill_loc()[pri:6, instance:CRBActions_US_C_Auth_main.CreateRequest_Auth@754ba872]" name="skill_loc" duration-ms="9761" started-at="2022-01-11T12:44:23Z" finished-at="2022-01-11T12:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skill_loc -->
+        <test-method status="PASS" signature="alert_check()[pri:7, instance:CRBActions_US_C_Auth_main.CreateRequest_Auth@754ba872]" name="alert_check" duration-ms="15" started-at="2022-01-11T12:44:33Z" finished-at="2022-01-11T12:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alert_check -->
+        <test-method status="PASS" signature="skill_price()[pri:8, instance:CRBActions_US_C_Auth_main.CreateRequest_Auth@754ba872]" name="skill_price" duration-ms="7975" started-at="2022-01-11T12:44:33Z" finished-at="2022-01-11T12:44:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skill_price -->
+        <test-method status="PASS" signature="supp()[pri:9, instance:CRBActions_US_C_Auth_main.CreateRequest_Auth@754ba872]" name="supp" duration-ms="19843" started-at="2022-01-11T12:44:41Z" finished-at="2022-01-11T12:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- supp -->
+      </class> <!-- CRBActions_US_C_Auth_main.CreateRequest_Auth -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
